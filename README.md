@@ -1,60 +1,63 @@
  <!-- README.md -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=1000&color=00FFF9&center=true&vCenter=true&width=800&lines=⚡+PROJECTS-CPP+⚡;🧮+Calculator+|+⏰+Digital+Clock+|+🎯+Guess+Number+Game;🚀+Powered+by+C%2B%2B+Logic!" alt="Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=💫+PROJECTS-CPP-+💫;🚀+Calculator+•+Digital+Clock+•+Guess+Number+Game;⚡+Built+with+C%2B%2B+Magic!" alt="Animated Header" />
 </h1>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/line-blue.gif" width="100%" />
+  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/techwave.gif" width="100%" />
 </p>
 
-<h2 align="center">✨ Welcome to the Future of Mini C++ Projects ✨</h2>
+<h2 align="center">⚙️ Where Logic Meets Imagination ⚙️</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/Projects-3-green?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/srivastavanandani190-lang/PROJECTS-CPP-?style=for-the-badge&color=yellow" />
-  <img src="https://img.shields.io/github/forks/srivastavanandani190-lang/PROJECTS-CPP-?style=for-the-badge&color=brightgreen" />
+  <img src="https://img.shields.io/badge/C%2B%2B-Powered-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-3-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Logic%20%26%20Creativity-purple?style=for-the-badge" />
 </p>
 
 ---
 
-<h2 align="center">🧩 What’s Inside</h2>
+<h2 align="center">🧩 PROJECT LINE-UP</h2>
 
 <div align="center">
 
-| 💻 Project | ⚡ Description | 🌈 Features |
-|:-----------:|:--------------:|:-------------:|
-| 🧮 **Calculator** | Simple yet powerful arithmetic calculator | ➕ ➖ ✖️ ➗ Operations |
-| ⏰ **Digital Clock** | Real-time clock using system time | Hours ⌚ Minutes ⏱ Seconds 🕒 |
-| 🎯 **Guess Number Game** | Fun logic-based number guessing game | Random Number 🎲 + Hints 💡 |
+| 🧠 Project | 🔍 Visual Concept | ⚡ Core Feature |
+|:------------:|:------------------:|:----------------:|
+| 🧮 **Calculator** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/calc.gif" width="120"/> | Performs real-time arithmetic operations |
+| ⏰ **Digital Clock** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/clock.gif" width="120"/> | Displays system time dynamically |
+| 🎯 **Guess The Number** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/game.gif" width="120"/> | Randomized guessing game fun |
 
 </div>
 
 ---
 
-<h2 align="center">🌟 Sneak Peek</h2>
+<h2 align="center">🧠 VISUAL EXPLORATION</h2>
 
 <p align="center">
-  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/code.gif" width="450" />
-  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/digital.gif" width="450" />
+  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/neon-line.gif" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srivastavanandani190-lang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00EFFF&icon_color=00EFFF" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&theme=radical&hide_border=true" width="49%">
 </p>
 
 ---
 
-<h2 align="center">⚙️ How to Run Locally</h2>
+<h2 align="center">🛠️ HOW TO DEPLOY MAGIC LOCALLY</h2>
 
 ```bash
-# Clone this futuristic repo
+# Clone the repo
 git clone https://github.com/srivastavanandani190-lang/PROJECTS-CPP-.git
 
-# Navigate inside
+# Jump in
 cd PROJECTS-CPP-
 
-# Compile any project, for example:
+# Compile any file (example)
 g++ calculator.cpp -o calculator
 
-# Run the program
+# Run your creation
 ./calculator
