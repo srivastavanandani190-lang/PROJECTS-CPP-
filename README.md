@@ -1,0 +1,70 @@
+ <!-- README.md -->
+<!-- Animated GIF header (upload a GIF to your repo and use the raw URL) -->
+<!-- Animated header (readme-typing-svg) -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&height=120&lines=%F0%9F%92%AB+PROJECTS-CPP-%F0%9F%92%AB;%F0%9F%9A%80+Calculator+%E2%80%A2+Digital+Clock+%E2%80%A2+Guess+Number+Game;%E2%9A%A1+Built+with+C%2B%2B+Magic!"
+    alt="PROJECTS-CPP - Animated Header"
+  />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/header-anim.gif" alt="PROJECTS-CPP - animated" width="900" />
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/techwave.gif" width="100%" />
+</p>
+
+<h2 align="center">⚙️ Where Logic Meets Imagination ⚙️</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-Powered-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-3-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Logic%20%26%20Creativity-purple?style=for-the-badge" />
+</p>
+
+---
+
+<h2 align="center">🧩 PROJECT LINE-UP</h2>
+
+<div align="center">
+
+| 🧠 Project | 🔍 Visual Concept | ⚡ Core Feature |
+|:------------:|:------------------:|:----------------:|
+| 🧮 **Calculator** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/calc.gif" width="120"/> | Performs real-time arithmetic operations |
+| ⏰ **Digital Clock** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/clock.gif" width="120"/> | Displays system time dynamically |
+| 🎯 **Guess The Number** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/game.gif" width="120"/> | Randomized guessing game fun |
+
+</div>
+
+---
+
+<h2 align="center">🧠 VISUAL EXPLORATION</h2>
+
+<p align="center">
+  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/neon-line.gif" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srivastavanandani190-lang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00EFFF&icon_color=00EFFF" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&theme=radical&hide_border=true" width="49%">
+</p>
+
+---
+
+<h2 align="center">🛠️ HOW TO DEPLOY MAGIC LOCALLY</h2>
+
+```bash
+# Clone the repo
+git clone https://github.com/srivastavanandani190-lang/PROJECTS-CPP-.git
+
+# Jump in
+cd PROJECTS-CPP-
+
+# Compile any file (example)
+g++ calculator.cpp -o calculator
+
+# Run your creation
+./calculator
