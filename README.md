@@ -1,63 +1,59 @@
-<!-- README.md -->
+ <!-- README.md -->
 
-<h1 align="center">💫✨ PROJECTS-CPP ✨💫</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=1000&color=00FFF9&center=true&vCenter=true&width=800&lines=⚡+PROJECTS-CPP+⚡;🧮+Calculator+|+⏰+Digital+Clock+|+🎯+Guess+Number+Game;🚀+Powered+by+C%2B%2B+Logic!" alt="Animated Header" />
+</h1>
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=🚀+C%2B%2B+Mini+Projects+Collection!;🧮+Calculator+|+⏰+Digital+Clock+|+🎯+Guess+Game" alt="Typing SVG" />
+  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/line-blue.gif" width="100%" />
 </p>
 
+<h2 align="center">✨ Welcome to the Future of Mini C++ Projects ✨</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/github/license/srivastavanandani190-lang/PROJECTS-CPP-?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Projects-3-green?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/srivastavanandani190-lang/PROJECTS-CPP-?style=for-the-badge&color=yellow" />
   <img src="https://img.shields.io/github/forks/srivastavanandani190-lang/PROJECTS-CPP-?style=for-the-badge&color=brightgreen" />
 </p>
 
 ---
 
-## 🪄 About This Repository
+<h2 align="center">🧩 What’s Inside</h2>
 
-This repository is a **collection of beginner-friendly C++ projects** that demonstrate logic building, time manipulation, and user interaction.  
-Each project is designed to sharpen your **problem-solving** and **programming** skills 💻
+<div align="center">
 
-### 🌟 Included Projects:
+| 💻 Project | ⚡ Description | 🌈 Features |
+|:-----------:|:--------------:|:-------------:|
+| 🧮 **Calculator** | Simple yet powerful arithmetic calculator | ➕ ➖ ✖️ ➗ Operations |
+| ⏰ **Digital Clock** | Real-time clock using system time | Hours ⌚ Minutes ⏱ Seconds 🕒 |
+| 🎯 **Guess Number Game** | Fun logic-based number guessing game | Random Number 🎲 + Hints 💡 |
 
-| Project | Description | Features |
-|----------|--------------|-----------|
-| 🧮 **Calculator** | Perform basic arithmetic operations | ➕ ➖ ✖️ ➗ |
-| ⏰ **Digital Clock** | Real-time system clock | Displays hours, minutes, seconds |
-| 🎯 **Guess the Number Game** | Fun and interactive number guessing game | Random number generator + user input loop |
+</div>
 
 ---
 
-## 🧩 Project Snapshots
+<h2 align="center">🌟 Sneak Peek</h2>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/yourimageid/calculator.gif" width="300" alt="Calculator Demo">
-  <img src="https://user-images.githubusercontent.com/yourimageid/clock.gif" width="300" alt="Digital Clock Demo">
-  <img src="https://user-images.githubusercontent.com/yourimageid/guessgame.gif" width="300" alt="Guess Game Demo">
+  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/code.gif" width="450" />
+  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/digital.gif" width="450" />
 </p>
 
 ---
 
-## 🛠️ Technologies Used
-
-- 🧠 **Language:** C++
-- ⚙️ **Concepts:** Loops, Conditional Statements, Random Number Generation, Functions, Time Handling
-- 🧩 **Tools:** Code::Blocks / Visual Studio / g++
-
----
-
-## 🚀 How to Run Locally
+<h2 align="center">⚙️ How to Run Locally</h2>
 
 ```bash
-# Clone the repository
+# Clone this futuristic repo
 git clone https://github.com/srivastavanandani190-lang/PROJECTS-CPP-.git
 
-# Navigate into the folder
+# Navigate inside
 cd PROJECTS-CPP-
 
-# Compile the project (example for calculator)
+# Compile any project, for example:
 g++ calculator.cpp -o calculator
 
 # Run the program
