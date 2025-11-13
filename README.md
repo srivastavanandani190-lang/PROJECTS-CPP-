@@ -1,10 +1,9 @@
  <!-- README.md -->
+<!-- Animated GIF header (upload a GIF to your repo and use the raw URL) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/header-anim.gif" alt="PROJECTS-CPP - animated" width="900" />
+</p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=💫+PROJECTS-CPP-+💫;🚀+Calculator+•+Digital+Clock+•+Guess+Number+Game;⚡+Built+with+C%2B%2B+Magic!" alt="Animated Header" />
-</h1>
-
----
 
 <p align="center">
   <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/techwave.gif" width="100%" />
