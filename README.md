@@ -1,9 +1,9 @@
-<!-- ========================= HEADER ANIMATION ========================= -->
+<!-- Typing SVG header (reliable) -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=900&color=10F1FF&center=true&vCenter=true&width=1000&lines=🚀+PROJECTS+IN+C%2B%2B;✨+Calculator+•+Digital+Clock+•+Guess+The+Number;⚡+Logical+Coding+Made+Fun!"
-    alt="Typing Animation Header"
-/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&pause=900&color=10F1FF&center=true&vCenter=true&width=1000&height=110&lines=%F0%9F%9A%80+PROJECTS+IN+C%2B%2B%0A%F0%9F%92%AB+Calculator+%E2%80%A2+Digital+Clock+%E2%80%A2+Guess+The+Number%0A%E2%9A%A1+Logical+Coding+Made+Fun%21"
+    alt="PROJECTS IN C++ - Animated Typing Header"
+  />
 </p>
 
 
