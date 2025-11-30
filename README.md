@@ -1,14 +1,24 @@
-<!-- Typing SVG + fallback banner -->
+<!-- ========================= HEADER ANIMATION ========================= -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&pause=900&color=10F1FF&center=true&vCenter=true&width=1000&height=110&lines=%F0%9F%9A%80+PROJECTS+IN+C%2B%2B%0A%F0%9F%92%AB+Calculator+%E2%80%A2+Digital+Clock+%E2%80%A2+Guess+The+Number%0A%E2%9A%A1+Logical+Coding+Made+Fun%21"
-    alt="PROJECTS IN C++ - Animated Typing Header"
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&pause=900&color=10F1FF&center=true&vCenter=true&width=1000&height=110&lines=%F0%9F%9A%80+PROJECTS+IN+C%2B%2B%0A%E2%9C%A8+Calculator+•+Digital+Clock+•+Guess+The+Number%0A%E2%9A%A1+Fun+%2B+Logical+Coding!"
+    alt="Typing Header"
   />
 </p>
 
+<!-- ========================= HEADER LOGOS ========================= -->
 <p align="center">
-  <!-- fallback static/banner GIF from a reliable external repo -->
-  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/techwave.gif?raw=true" alt="Banner fallback" width="100%" />
+  <!-- Calculator Logo -->
+  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/calc.gif?raw=true" 
+       alt="Calculator" width="120" style="margin-right:20px;" />
+
+  <!-- Digital Clock Logo -->
+  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/clock.gif?raw=true" 
+       alt="Digital Clock" width="120" style="margin-right:20px;" />
+
+  <!-- Guess Game Logo -->
+  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/game.gif?raw=true" 
+       alt="Guess Game" width="120" />
 </p>
 
 
