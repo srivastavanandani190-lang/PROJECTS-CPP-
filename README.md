@@ -6,6 +6,11 @@
   />
 </p>
 
+<!-- Working GIF (techwave) -->
+<p align="center">
+  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/techwave.gif?raw=true" width="100%" />
+</p>
+
 <!-- Your GIF header (replace with your own GIF if you upload one later) -->
 <p align="center">
   <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/techwave.gif" width="100%" />
