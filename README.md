@@ -1,69 +1,80 @@
-<!-- Animated header (readme-typing-svg) -->
+<!-- ========================= HEADER ANIMATION ========================= -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&height=120&lines=%F0%9F%92%AB+PROJECTS-CPP-%F0%9F%92%AB;%F0%9F%9A%80+Calculator+•+Digital+Clock+•+Guess+Number+Game;%E2%9A%A1+Built+with+C%2B%2B+Magic!"
-    alt="PROJECTS-CPP - Animated Header"
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=38&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=1000&height=80&lines=🚀+PROJECTS+IN+C%2B%2B+BY+NANDANI;✨+Calculator+•+Digital+Clock+•+Guess+The+Number;⚡+Logical+%2B+Creative+Coding+Journey!"
   />
 </p>
 
-<!-- Working GIF (techwave) -->
+<!-- ========================= HERO IMAGE ========================= -->
 <p align="center">
-  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/techwave.gif?raw=true" width="100%" />
-</p>
-
-<!-- Your GIF header (replace with your own GIF if you upload one later) -->
-<p align="center">
-  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/techwave.gif" width="100%" />
-</p>
-
-<h2 align="center">⚙️ Where Logic Meets Imagination ⚙️</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-Powered-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Projects-3-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Logic%20%26%20Creativity-purple?style=for-the-badge" />
+  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/techwave.gif?raw=true" width="100%" alt="Header Banner">
 </p>
 
 ---
 
-<h2 align="center">🧩 PROJECT LINE-UP</h2>
+<h2 align="center">💠 Welcome to PROJECTS-CPP 💠</h2>
+
+<p align="center">
+This repository contains fun and powerful beginner-friendly <b>C++ projects</b> built to sharpen logic, creativity, and problem-solving skills.
+<br>
+Each project is designed with simplicity, clarity, and interactive experience in mind.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Projects-03-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Made%20with-Love%20%26%20Logic-red?style=for-the-badge">
+</p>
+
+---
+
+# 🎯 **Project Showcase**
 
 <div align="center">
 
-| 🧠 Project | 🔍 Visual Concept | ⚡ Core Feature |
-|:------------:|:------------------:|:----------------:|
-| 🧮 **Calculator** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/calc.gif" width="120"/> | Performs real-time arithmetic operations |
-| ⏰ **Digital Clock** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/clock.gif" width="120"/> | Displays system time dynamically |
-| 🎯 **Guess The Number** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/game.gif" width="120"/> | Randomized guessing game fun |
+| 🚀 Project | 🔥 Preview | 🎛️ Description |
+|-----------|-----------|----------------|
+| 🧮 **Calculator** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/calc.gif?raw=true" width="130"> | A simple yet powerful calculator that performs real-time arithmetic operations. |
+| ⏰ **Digital Clock** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/clock.gif?raw=true" width="130"> | Displays system time dynamically using C++ time functions. |
+| 🎯 **Guess The Number Game** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/game.gif?raw=true" width="130"> | A fun interactive game where you guess the randomly generated number. |
 
 </div>
 
 ---
 
-<h2 align="center">🧠 VISUAL EXPLORATION</h2>
+# 🌟 **Features of This Repository**
 
-<p align="center">
-  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/neon-line.gif" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srivastavanandani190-lang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00EFFF&icon_color=00EFFF" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&theme=radical&hide_border=true" width="49%">
-</p>
+✔ Beginner friendly, clean & simple logic  
+✔ Interactive console-based applications  
+✔ Uses loops, functions, conditionals & randomness  
+✔ Perfect for assignments, learning, and practice  
+✔ Well-structured code files with comments  
 
 ---
 
-<h2 align="center">🛠️ HOW TO DEPLOY MAGIC LOCALLY</h2>
+# 🧠 **What You Will Learn**
+
+- Variables & Data types  
+- Conditional logic (`if/else`, comparisons)  
+- Loops (`for`, `while`)  
+- Random number generation  
+- Time manipulation in C++  
+- Input/output formatting  
+- Modular coding practice  
+
+---
+
+# 🛠️ **How to Run Locally (Step-by-Step)**
 
 ```bash
-# Clone the repo
+# 1️⃣ Clone the repository
 git clone https://github.com/srivastavanandani190-lang/PROJECTS-CPP-.git
 
-# Jump in
+# 2️⃣ Move into folder
 cd PROJECTS-CPP-
 
-# Compile any file (example)
+# 3️⃣ Compile any project (example: Calculator)
 g++ calculator.cpp -o calculator
 
-# Run your creation
+# 4️⃣ Run the program
 ./calculator
