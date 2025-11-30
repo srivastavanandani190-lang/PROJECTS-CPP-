@@ -1,18 +1,12 @@
- <!-- README.md -->
-<!-- Animated GIF header (upload a GIF to your repo and use the raw URL) -->
 <!-- Animated header (readme-typing-svg) -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&height=120&lines=%F0%9F%92%AB+PROJECTS-CPP-%F0%9F%92%AB;%F0%9F%9A%80+Calculator+%E2%80%A2+Digital+Clock+%E2%80%A2+Guess+Number+Game;%E2%9A%A1+Built+with+C%2B%2B+Magic!"
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&height=120&lines=%F0%9F%92%AB+PROJECTS-CPP-%F0%9F%92%AB;%F0%9F%9A%80+Calculator+•+Digital+Clock+•+Guess+Number+Game;%E2%9A%A1+Built+with+C%2B%2B+Magic!"
     alt="PROJECTS-CPP - Animated Header"
   />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/header-anim.gif" alt="PROJECTS-CPP - animated" width="900" />
-</p>
-
-
+<!-- Your GIF header (replace with your own GIF if you upload one later) -->
 <p align="center">
   <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/techwave.gif" width="100%" />
 </p>
