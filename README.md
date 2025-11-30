@@ -1,38 +1,24 @@
-<!-- ================= HEADER ANIMATION ================= -->
+<!-- Typing SVG + fallback banner -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&pause=900&color=10F1FF&center=true&vCenter=true&width=1000&height=110&lines=%F0%9F%9A%80+PROJECTS+IN+C%2B%2B%0A%E2%9C%A8+Calculator+•+Digital+Clock+•+Guess+The+Number%0A%E2%9A%A1+Logical+Coding+Made+Fun%21"
-    alt="Typing Header"
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&pause=900&color=10F1FF&center=true&vCenter=true&width=1000&height=110&lines=%F0%9F%9A%80+PROJECTS+IN+C%2B%2B%0A%F0%9F%92%AB+Calculator+%E2%80%A2+Digital+Clock+%E2%80%A2+Guess+The+Number%0A%E2%9A%A1+Logical+Coding+Made+Fun%21"
+    alt="PROJECTS IN C++ - Animated Typing Header"
   />
 </p>
 
-<!-- =============== HEADER LOGOS (NEW + ATTRACTIVE) ================== -->
 <p align="center">
-
-  <!-- Calculator Logo -->
-  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/calc.gif?raw=true"
-       alt="Calculator Logo" width="130" style="margin-right: 25px;" />
-
-  <!-- Digital Clock Logo -->
-  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/clock.gif?raw=true"
-       alt="Digital Clock Logo" width="130" style="margin-right: 25px;" />
-
-  <!-- Guess Game Logo -->
-  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/game.gif?raw=true"
-       alt="Guess The Number Logo" width="130" />
+  <!-- fallback static/banner GIF from a reliable external repo -->
+  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/techwave.gif?raw=true" alt="Banner fallback" width="100%" />
 </p>
 
-<!-- ================== FALLBACK BANNER (LOOKS AMAZING) ================== -->
-<p align="center">
-  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/techwave.gif?raw=true" 
-       alt="Tech Banner" width="100%" />
-</p>
+
 
 <h2 align="center">💠 Welcome to PROJECTS-CPP 💠</h2>
 
 <p align="center">
-Explore this collection of beginner-friendly and fun <b>C++ mini projects</b> designed to boost logic, creativity, and hands-on coding skills.
-Each project is interactive, engaging, and perfect for learning core C++ concepts.
+This repository contains fun and powerful beginner-friendly <b>C++ projects</b> built to sharpen logic, creativity, and problem-solving skills.
+<br>
+Each project is designed with simplicity, clarity, and interactive experience in mind.
 </p>
 
 <p align="center">
@@ -49,50 +35,47 @@ Each project is interactive, engaging, and perfect for learning core C++ concept
 
 | 🚀 Project | 🔥 Preview | 🎛️ Description |
 |-----------|-----------|----------------|
-| 🧮 **Calculator** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/calc.gif?raw=true" width="130"> | Performs addition, subtraction, multiplication & division with real-time output. |
-| ⏰ **Digital Clock** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/clock.gif?raw=true" width="130"> | Displays live system time, updating every second using time libraries. |
-| 🎯 **Guess The Number Game** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/game.gif?raw=true" width="130"> | A fun game where the computer picks a secret number and the user guesses it. |
+| 🧮 **Calculator** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/calc.gif?raw=true" width="130"> | A simple yet powerful calculator that performs real-time arithmetic operations. |
+| ⏰ **Digital Clock** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/clock.gif?raw=true" width="130"> | Displays system time dynamically using C++ time functions. |
+| 🎯 **Guess The Number Game** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/game.gif?raw=true" width="130"> | A fun interactive game where you guess the randomly generated number. |
 
 </div>
 
 ---
 
-# 🌟 **Why This Repository Is Awesome**
+# 🌟 **Features of This Repository**
 
-✨ Simple, clean, beginner-friendly  
-✨ Helps learn real logic building  
-✨ Perfect for assignments & portfolios  
-✨ Covers core C++ fundamentals  
-✨ Includes visual GIF previews  
-✨ Attractive README for GitHub profile  
+✔ Beginner friendly, clean & simple logic  
+✔ Interactive console-based applications  
+✔ Uses loops, functions, conditionals & randomness  
+✔ Perfect for assignments, learning, and practice  
+✔ Well-structured code files with comments  
 
 ---
 
-# 🧠 **Concepts You Will Learn**
+# 🧠 **What You Will Learn**
 
-- Variables & operators  
+- Variables & Data types  
+- Conditional logic (`if/else`, comparisons)  
 - Loops (`for`, `while`)  
-- Conditional statements  
-- Console input/output  
 - Random number generation  
-- Working with time in C++  
-- Modular coding practices  
-- Arithmetic operations  
-- Error handling basics  
+- Time manipulation in C++  
+- Input/output formatting  
+- Modular coding practice  
 
 ---
 
-# 🛠️ **How to Run These Projects Locally**
+# 🛠️ **How to Run Locally (Step-by-Step)**
 
 ```bash
 # 1️⃣ Clone the repository
 git clone https://github.com/srivastavanandani190-lang/PROJECTS-CPP-.git
 
-# 2️⃣ Navigate to the folder
+# 2️⃣ Move into folder
 cd PROJECTS-CPP-
 
 # 3️⃣ Compile any project (example: Calculator)
 g++ calculator.cpp -o calculator
 
-# 4️⃣ Run it
-./calculator
+# 4️⃣ Run the program
+./calculator  
