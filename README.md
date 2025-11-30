@@ -1,14 +1,11 @@
 <!-- ========================= HEADER ANIMATION ========================= -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=38&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=1000&height=80&lines=🚀+PROJECTS+IN+C%2B%2B+BY+NANDANI;✨+Calculator+•+Digital+Clock+•+Guess+The+Number;⚡+Logical+%2B+Creative+Coding+Journey!"
-  />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=900&color=10F1FF&center=true&vCenter=true&width=1000&lines=🚀+PROJECTS+IN+C%2B%2B;✨+Calculator+•+Digital+Clock+•+Guess+The+Number;⚡+Logical+Coding+Made+Fun!"
+    alt="Typing Animation Header"
+/>
 </p>
 
-<!-- ========================= HERO IMAGE ========================= -->
-<p align="center">
-  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/techwave.gif?raw=true" width="100%" alt="Header Banner">
-</p>
 
 ---
 
