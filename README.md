@@ -35,9 +35,9 @@ Each project is designed with simplicity, clarity, and interactive experience in
 
 | 🚀 Project | 🔥 Preview | 🎛️ Description |
 |-----------|-----------|----------------|
-| 🧮 **Calculator** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/calc.gif?raw=true" width="130"> | A simple yet powerful calculator that performs real-time arithmetic operations. |
-| ⏰ **Digital Clock** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/clock.gif?raw=true" width="130"> | Displays system time dynamically using C++ time functions. |
-| 🎯 **Guess The Number Game** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/game.gif?raw=true" width="130"> | A fun interactive game where you guess the randomly generated number. |
+| **Calculator** |  🧮 | A simple yet powerful calculator that performs real-time arithmetic operations. |
+|  **Digital Clock** | ⏰ | Displays system time dynamically using C++ time functions. |
+| **Guess The Number Game** |🎯  | A fun interactive game where you guess the randomly generated number. |
 
 </div>
 
