@@ -1,82 +1,83 @@
-<!-- Typing SVG + fallback banner -->
-<h2 align="center">💠 Welcome to PROJECTS-CPP 💠</h2>
+<!-- ================================================= -->
+<!-- 🌌 ANIMATED HERO SECTION -->
+<!-- ================================================= -->
+
+<h1 align="center">💠 PROJECTS-CPP 💠</h1>
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&pause=900&color=10F1FF&center=true&vCenter=true&width=1000&height=110&lines=%F0%9F%9A%80+PROJECTS+IN+C%2B%2B%0A%F0%9F%92%AB+Calculator+%E2%80%A2+Digital+Clock+%E2%80%A2+Guess+The+Number%0A%E2%9A%A1+Logical+Coding+Made+Fun%21"
-    alt="PROJECTS IN C++ - Animated Typing Header"
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&pause=900&color=00E5FF&center=true&vCenter=true&width=1100&height=120&lines=🚀+Projects+in+C%2B%2B;🧠+Logic+Building+Through+Code;⚡+Learn+%7C+Build+%7C+Master+C%2B%2B"
+    alt="Animated Typing Header"
   />
 </p>
 
 <p align="center">
-  <!-- fallback static/banner GIF from a reliable external repo -->
-  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/techwave.gif?raw=true" alt="Banner fallback" width="100%" />
-</p>
-
-
-
-
-
-<p align="center">
-This repository contains fun and powerful beginner-friendly <b>C++ projects</b> built to sharpen logic, creativity, and problem-solving skills.
-<br>
-Each project is designed with simplicity, clarity, and interactive experience in mind.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Projects-03-brightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Made%20with-Love%20%26%20Logic-red?style=for-the-badge">
+  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/techwave.gif?raw=true" width="100%" />
 </p>
 
 ---
 
-# 🎯 **Project Showcase**
+<p align="center">
+✨ A curated collection of <b>beginner-friendly yet powerful C++ projects</b><br>
+Designed to boost <b>logic, confidence, and real-world coding skills</b> through hands-on practice.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Projects-03-00E676?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Level-Beginner%20Friendly-FFD54F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Made%20With-Love%20%26%20Logic-FF5252?style=for-the-badge"/>
+</p>
+
+---
+
+## 🎯 Project Showcase
 
 <div align="center">
 
-| 🚀 Project | 🔥 Preview | 🎛️ Description |
-|-----------|-----------|----------------|
-| **Calculator** |  🧮 | A simple yet powerful calculator that performs real-time arithmetic operations. |
-|  **Digital Clock** | ⏰ | Displays system time dynamically using C++ time functions. |
-| **Guess The Number Game** |🎯  | A fun interactive game where you guess the randomly generated number. |
+| 🚀 Project | 🔥 Type | 🧩 What It Does |
+|-----------|--------|----------------|
+| **🧮 Calculator** | Console App | Performs fast & accurate arithmetic operations with clean logic |
+| **⏰ Digital Clock** | Time-based App | Displays real-time system clock using C++ time functions |
+| **🎯 Guess The Number** | Game | Fun interactive game using randomness & loops |
 
 </div>
 
 ---
 
-# 🌟 **Features of This Repository**
+## 🌟 Why This Repository is Awesome
 
-✔ Beginner friendly, clean & simple logic  
-✔ Interactive console-based applications  
-✔ Uses loops, functions, conditionals & randomness  
-✔ Perfect for assignments, learning, and practice  
-✔ Well-structured code files with comments  
+✅ Super beginner-friendly code  
+✅ Clean, readable & well-commented  
+✅ Real-world mini projects  
+✅ Strengthens DSA foundations  
+✅ Perfect for college, interviews & practice  
 
 ---
 
-# 🧠 **What You Will Learn**
+## 🧠 Concepts You’ll Master
 
-- Variables & Data types  
-- Conditional logic (`if/else`, comparisons)  
+- Variables & Data Types  
+- Conditional Statements (`if / else`)  
 - Loops (`for`, `while`)  
+- Functions & modular coding  
 - Random number generation  
-- Time manipulation in C++  
-- Input/output formatting  
-- Modular coding practice  
+- Time handling in C++  
+- Console input/output formatting  
 
 ---
 
-# 🛠️ **How to Run Locally (Step-by-Step)**
+## 🛠️ Run Locally in 4 Simple Steps
 
 ```bash
 # 1️⃣ Clone the repository
 git clone https://github.com/srivastavanandani190-lang/PROJECTS-CPP-.git
 
-# 2️⃣ Move into folder
+# 2️⃣ Navigate to the project folder
 cd PROJECTS-CPP-
 
 # 3️⃣ Compile any project (example: Calculator)
 g++ calculator.cpp -o calculator
 
-# 4️⃣ Run the program
-./calculator  
+# 4️⃣ Run the executable
+./calculator
