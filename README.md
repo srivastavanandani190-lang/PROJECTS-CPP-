@@ -6,14 +6,19 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&pause=900&color=00E5FF&center=true&vCenter=true&width=1100&height=120&lines=🚀+Projects+in+C%2B%2B;🧠+Logic+Building+Through+Code;⚡+Learn+%7C+Build+%7C+Master+C%2B%2B"
-    alt="Animated Typing Header"
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&pause=900&color=00E5FF&center=true&vCenter=true&width=1100&height=120&lines=Projects+in+C%2B%2B;Logic+Building+Through+Code;Learn+%7C+Build+%7C+Master+C%2B%2B"
+    alt="Projects in C++ Typing Animation"
   />
 </p>
 
 <p align="center">
-  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/techwave.gif?raw=true" width="100%" />
+  <img
+    src="https://raw.githubusercontent.com/itsnitinr/Cool-GIFs/main/techwave.gif"
+    alt="Tech Wave Animation"
+    width="900"
+  />
 </p>
+
 
 ---
 
