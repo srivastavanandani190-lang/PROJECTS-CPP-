@@ -1,70 +1,88 @@
- <!-- README.md -->
-<!-- Animated GIF header (upload a GIF to your repo and use the raw URL) -->
-<!-- Animated header (readme-typing-svg) -->
+<!-- ================================================= -->
+<!-- 🌌 ANIMATED HERO SECTION -->
+<!-- ================================================= -->
+
+<h1 align="center">💠 PROJECTS-CPP 💠</h1>
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&height=120&lines=%F0%9F%92%AB+PROJECTS-CPP-%F0%9F%92%AB;%F0%9F%9A%80+Calculator+%E2%80%A2+Digital+Clock+%E2%80%A2+Guess+Number+Game;%E2%9A%A1+Built+with+C%2B%2B+Magic!"
-    alt="PROJECTS-CPP - Animated Header"
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&pause=900&color=00E5FF&center=true&vCenter=true&width=1100&height=120&lines=Projects+in+C%2B%2B;Logic+Building+Through+Code;Learn+%7C+Build+%7C+Master+C%2B%2B"
+    alt="Projects in C++ Typing Animation"
   />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/header-anim.gif" alt="PROJECTS-CPP - animated" width="900" />
+  <img
+    src="https://raw.githubusercontent.com/itsnitinr/Cool-GIFs/main/techwave.gif"
+    alt="Tech Wave Animation"
+    width="900"
+  />
 </p>
 
 
+---
+
 <p align="center">
-  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/techwave.gif" width="100%" />
+✨ A curated collection of <b>beginner-friendly yet powerful C++ projects</b><br>
+Designed to boost <b>logic, confidence, and real-world coding skills</b> through hands-on practice.
 </p>
 
-<h2 align="center">⚙️ Where Logic Meets Imagination ⚙️</h2>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-Powered-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Projects-3-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Logic%20%26%20Creativity-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Projects-03-00E676?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Level-Beginner%20Friendly-FFD54F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Made%20With-Love%20%26%20Logic-FF5252?style=for-the-badge"/>
 </p>
 
 ---
 
-<h2 align="center">🧩 PROJECT LINE-UP</h2>
+## 🎯 Project Showcase
 
 <div align="center">
 
-| 🧠 Project | 🔍 Visual Concept | ⚡ Core Feature |
-|:------------:|:------------------:|:----------------:|
-| 🧮 **Calculator** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/calc.gif" width="120"/> | Performs real-time arithmetic operations |
-| ⏰ **Digital Clock** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/clock.gif" width="120"/> | Displays system time dynamically |
-| 🎯 **Guess The Number** | <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/game.gif" width="120"/> | Randomized guessing game fun |
+| 🚀 Project | 🔥 Type | 🧩 What It Does |
+|-----------|--------|----------------|
+| **🧮 Calculator** | Console App | Performs fast & accurate arithmetic operations with clean logic |
+| **⏰ Digital Clock** | Time-based App | Displays real-time system clock using C++ time functions |
+| **🎯 Guess The Number** | Game | Fun interactive game using randomness & loops |
 
 </div>
 
 ---
 
-<h2 align="center">🧠 VISUAL EXPLORATION</h2>
+## 🌟 Why This Repository is Awesome
 
-<p align="center">
-  <img src="https://github.com/itsnitinr/Cool-GIFs/blob/main/neon-line.gif" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srivastavanandani190-lang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00EFFF&icon_color=00EFFF" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&theme=radical&hide_border=true" width="49%">
-</p>
+✅ Super beginner-friendly code  
+✅ Clean, readable & well-commented  
+✅ Real-world mini projects  
+✅ Strengthens DSA foundations  
+✅ Perfect for college, interviews & practice  
 
 ---
 
-<h2 align="center">🛠️ HOW TO DEPLOY MAGIC LOCALLY</h2>
+## 🧠 Concepts You’ll Master
+
+- Variables & Data Types  
+- Conditional Statements (`if / else`)  
+- Loops (`for`, `while`)  
+- Functions & modular coding  
+- Random number generation  
+- Time handling in C++  
+- Console input/output formatting  
+
+---
+
+## 🛠️ Run Locally in 4 Simple Steps
 
 ```bash
-# Clone the repo
+# 1️⃣ Clone the repository
 git clone https://github.com/srivastavanandani190-lang/PROJECTS-CPP-.git
 
-# Jump in
+# 2️⃣ Navigate to the project folder
 cd PROJECTS-CPP-
 
-# Compile any file (example)
+# 3️⃣ Compile any project (example: Calculator)
 g++ calculator.cpp -o calculator
 
-# Run your creation
+# 4️⃣ Run the executable
 ./calculator
